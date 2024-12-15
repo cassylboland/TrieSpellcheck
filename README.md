@@ -4,6 +4,9 @@ Walkthrough of the program:
 Upon booting the app, you'll find two options, one is a spellchecker for individual words
 and the other is a batch spellchecker.
 
+Instructions to run the program:
+  You can use the exe included in the github to test the code and follow the walkthrough below
+
   The individual word option will allow you to see how the checker works in terms of taking an misspelled word and suggesting up to 5 options that the word may be.
   You can also select the word you meant and skip over if you don't see the word you meant. The purpose of this functionality is to be able to 
   select the option that will replace your incorrect word. You are then returned to the initial word prompt.
